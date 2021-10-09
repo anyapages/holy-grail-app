@@ -4,7 +4,7 @@
   "description": "basic full stack app",
   "main": "index.js",
   "dependencies": {
-    "homepage": "",
+    "homepage": "https://anyapages.github.io/holy-grail-app.html",
     "express": "^4.17.1",
     "redis": "^3.1.2"
   },
