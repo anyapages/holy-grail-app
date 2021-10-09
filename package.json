@@ -3,17 +3,25 @@
   "version": "1.0.0",
   "description": "basic full stack app",
   "main": "index.js",
-  "dependencies": {
-    "homepage": "https://anyapages.github.io/holy-grail-app.html",
-    "express": "^4.17.1",
-    "redis": "^3.1.2"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm install",
     "start": "node index.js"
   },
+
+  "dependencies": {
+    "homepage": "https://holy-grail-app.herokuapp.com",
+    "express": "^4.17.1",
+    "redis": "^3.1.2"
+  },
+
+  "devDependencies": {},
+  
+  "engines": {
+    "node": "14.x",
+    "npm": "6.14.x"
+  },
+  
   "author": "Anya Paranya",
   "license": "MIT"
 }
