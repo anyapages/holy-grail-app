@@ -1,6 +1,6 @@
 # Holy Grail App
 
-A full stack Holy Grail design pattern app with databases.
+A full stack Holy Grail design pattern app with Redis used as a database.
 ## Holy Grail design pattern
 
 A "Holy Grail" is a design with a header, content, two sidebars, and a footer. Creating this type of layout is challenging, and requires some advanced design decisions, such as:
@@ -10,7 +10,8 @@ A "Holy Grail" is a design with a header, content, two sidebars, and a footer. C
 - How to store and manage state ?
 
 Here's the example
-<img src = '' width="400" height="340"> 
+
+<img src = 'https://raw.githubusercontent.com/anyapages/holy-grail-app/main/public/example.png?token=ATDMTEDNTR4WVHJ53R25ZADBNPK5G' width="400" height="340"> 
 
 ## Tasks:
 
@@ -32,11 +33,11 @@ Here's the example
 
 ## Usage
 
-<img src = '' width="550" height="440"> 
+<img src = 'https://raw.githubusercontent.com/anyapages/holy-grail-app/main/public/example.gif?token=ATDMTEAYRRPT223GZJJKUTDBNPK5I' width="550" height="440"> 
 
 ## Learn More
 
-To learn more about redis, check out the [redis documentation](https://redis.io/documentation), [download](https://redis.io/download).
+To learn more about Redis, check out the [redis documentation](https://redis.io/documentation) and [download](https://redis.io/download).
 
 ## License
 
