@@ -21,21 +21,16 @@ header, aside, article, footer {
 }
 
 aside {
-  background: #ffdd00;
+  background: #def2f1;
 }
 
 article {
-  background: #a9bcf3;    
+  background: #feffff;    
 }
 
-header {
+header, footer {
   grid-column: 1 / 4;
-  background: #f6378f;    
-}
-
-footer {
-  grid-column: 1 / 4;
-  background: #40a8c4;    
+  background: #3aafa9;    
 }
 
 body {
