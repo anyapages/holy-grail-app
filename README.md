@@ -33,7 +33,7 @@ Here's the example
 
 ## Usage
 
-<img src = 'https://raw.githubusercontent.com/anyapages/holy-grail-app/main/public/redis%20server.png?token=ATDMTEFBO4QJRPZRFW4K4WDBNPNYY' width="550" height="440"> 
+<img src = 'https://raw.githubusercontent.com/anyapages/holy-grail-app/main/public/redis%20server.png?token=ATDMTEFBO4QJRPZRFW4K4WDBNPNYY' width="400" height="320"> 
 
 <img src = 'https://raw.githubusercontent.com/anyapages/holy-grail-app/main/public/example.gif?token=ATDMTEAYRRPT223GZJJKUTDBNPK5I' width="550" height="440"> 
 
