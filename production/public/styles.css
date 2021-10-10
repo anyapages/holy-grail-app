@@ -1,0 +1,50 @@
+.grid {
+  display: grid;
+  grid-template-columns: 200px 1fr 200px;
+  grid-template-rows: auto 1fr auto;
+  gap: 4px;
+  height: 98vh;
+  display: grid;
+}
+
+.section {
+  font-size: 25px;
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 5px;
+}
+
+header, aside, article, footer {
+  border-style: solid;
+  font-size: 12px;
+  text-align: center;
+}
+
+aside {
+  background: #def2f1;
+}
+
+article {
+  background: #feffff;    
+}
+
+header, footer {
+  grid-column: 1 / 4;
+  background: #3aafa9;    
+}
+
+body {
+  font-family: Arial;
+}
+
+button {
+  font-size: 14px;
+}
+
+img {
+  height: 26px;
+  width: 26px;
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-bottom: 6px;
+}
