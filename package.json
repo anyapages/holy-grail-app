@@ -6,10 +6,10 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "express": "latest",
-    "redis": "latest",
+    "express": "^4.17.1",
     "node": "latest",
-    "npm": "latest"
+    "npm": "latest",
+    "redis": "^3.1.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
