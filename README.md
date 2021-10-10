@@ -1,6 +1,6 @@
 # Holy Grail App 🎨
 
-A full stack [holy grail](https://en.wikipedia.org/wiki/Holy_grail_(web_design)) design pattern sample app, using [Redis](https://redis.io/) used as a database from [Node.js](https://nodejs.org/en/).
+A full stack [holy grail](https://en.wikipedia.org/wiki/Holy_grail_(web_design)) design pattern app, using [Redis](https://redis.io/) used as a database from [Node.js](https://nodejs.org/en/).
 ## Holy grail design pattern
 
 A holy grail is a design with a header, content, two sidebars, and a footer. Creating this type of layout is challenging, and requires some advanced design decisions, such as:
