@@ -27,7 +27,7 @@ Here's the example
 
 ## Installation
 
-- Install Redis then run its server `src/redis-server`
+- Install Redis then run it with `src/redis-server`
 - ```npm install```
 - `node index.js` run on `http://localhost:3000`.
 
