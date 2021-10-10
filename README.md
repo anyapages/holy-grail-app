@@ -1,4 +1,4 @@
-# Holy Grail App
+# Holy Grail App 🎨
 
 A full stack Holy Grail design pattern app with Redis used as a database.
 ## Holy Grail design pattern
@@ -27,8 +27,8 @@ Here's the example
 
 ## Installation
 
-- Set up the Redis Docker container.
-- ```npm install redis```
+- Install Redis then run its server `src/redis-server`
+- ```npm install```
 - `node index.js` run on `http://localhost:3000`.
 
 ## Usage
@@ -37,7 +37,7 @@ Here's the example
 
 ## Learn More
 
-To learn more about Redis, check out the [redis documentation](https://redis.io/documentation) and [download](https://redis.io/download).
+To learn about Redis, check out the [redis documentation](https://redis.io/documentation) and [installation](https://redis.io/download).
 
 ## License
 
