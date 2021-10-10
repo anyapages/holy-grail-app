@@ -6,17 +6,17 @@
   "private": "true",
   "author": "Anya Paranya",
   "license": "MIT",
-  
   "dependencies": {
     "express": "^4.17.1",
-    "node": "latest",
-    "npm": "latest",
     "redis": "^3.1.2"
   },
-
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/anyapages/holy-grail-app"
+    "type": "git",
+    "url": "https://github.com/anyapages/holy-grail-app"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
